@@ -5,7 +5,7 @@ A full-stack job scraper that pulls real engineering jobs from the [Hacker News 
 ## Live Demo
 
 - **Frontend (Vercel):** [https://job-trends-scraper-dashboard.vercel.app/](https://job-trends-scraper-dashboard.vercel.app/)
-- **Backend API (Railway):** [job-trends-scraper-dashboard-production.up.railway.app](job-trends-scraper-dashboard-production.up.railway.app)
+- **Backend API (Railway):** [https://job-trends-scraper-dashboard-production.up.railway.app/](https://job-trends-scraper-dashboard-production.up.railway.app/)
 
 ## Tech Stack
 
